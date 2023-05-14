@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "495366377759",
+    "project_id": "foodorderindapp-b2c0f",
+    "storage_bucket": "foodorderindapp-b2c0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495366377759:android:df8da44b3f1b9a28a5602a",
+        "android_client_info": {
+          "package_name": "com.example.blogappp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495366377759-008u4sb2jk7suboht646gd5hdlbp9u43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB1F84g89ApUziz7U0T9gyYELjl5JT3V4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495366377759-008u4sb2jk7suboht646gd5hdlbp9u43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495366377759:android:ab389c8637082fe5a5602a",
+        "android_client_info": {
+          "package_name": "com.example.pollingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495366377759-008u4sb2jk7suboht646gd5hdlbp9u43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB1F84g89ApUziz7U0T9gyYELjl5JT3V4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495366377759-008u4sb2jk7suboht646gd5hdlbp9u43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
